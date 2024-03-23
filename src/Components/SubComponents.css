@@ -1,0 +1,21 @@
+.h{
+ margin-top: 100px;
+ align-items:end;
+    color:white;
+    background-color: red;
+    text-align: center;
+   
+    text-transform: capitalize;
+  
+    font-family: serif;
+    
+}
+.props{
+    background-color: red;
+    text-align: center;
+    color:white;
+}
+
+.h:hover{
+background-color: blue;
+}
