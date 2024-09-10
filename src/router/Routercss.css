@@ -1,0 +1,21 @@
+.nav{
+    background-color: red;
+}
+#h{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(7, 205, 240);
+    background-attachment: fixed;
+  
+    background-image: url("../Handling/bg-pattern.jpg");
+  background-size:cover;
+
+}
+a{
+    margin: 30px;
+}
+
+#img1{
+    float: left;
+}
