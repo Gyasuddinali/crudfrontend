@@ -1,3 +1,99 @@
-body{
-    background-color: aqua;
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+input{
+    background-color:white;
+text-transform: capitalize;
+text-align: center;   
+}
+
+button{
+    color: rgb(248, 58, 10);
+    background-color: white;
+    font-size: larger;
+}
+/* input{
+    margin:10px;
+    text-align: center;
+    width: 100px;
+    height: 20px;
+    padding: 7px;
+} */
+label{
+  
+    text-transform:capitalize ;
+    width: 150px;
+    height: 20px;
+   margin-right: 19;
+   font-size: 20px;
+}
+#form{
+
+    text-align: center;
+    background-attachment: fixed;
+  color: white;
+    background-image: url("./Handling/bg-pattern.jpg");
+  background-size:cover;
+}
+
+
+#nav{
+
+    text-align: center;
+
+font-size: 30px;
+
+}
+
+#n{
+    color: white;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px 
+}
+#a{
+    color: white;
+    font-style: initial;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px 
+}
+#c{
+    color: white;
+    font-style: italic;
+  
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px 
+}
+#r{
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px 
+}
+#g{
+
+   color: white;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px 
+}
+#u{
+    color: white;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px 
+}
+
+
+#d{
+    color: white;
+    font-style: italic;
+  
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px 
 }
