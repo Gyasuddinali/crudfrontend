@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/myreact1/static/css/main.3afa8314.css",
-    "main.js": "/myreact1/static/js/main.8b17e0b1.js",
-    "static/media/1725359550794.png": "/myreact1/static/media/1725359550794.c02778210a5b1a3b5f93.png",
-    "static/media/bg-pattern.jpg": "/myreact1/static/media/bg-pattern.5f6672f5413fd4d3eac5.jpg",
-    "index.html": "/myreact1/index.html",
-    "main.3afa8314.css.map": "/myreact1/static/css/main.3afa8314.css.map",
-    "main.8b17e0b1.js.map": "/myreact1/static/js/main.8b17e0b1.js.map"
+    "main.css": "/crudfrontend/static/css/main.2f431ef0.css",
+    "main.js": "/crudfrontend/static/js/main.70dbb266.js",
+    "static/media/1725359550794.png": "/crudfrontend/static/media/1725359550794.c02778210a5b1a3b5f93.png",
+    "static/media/bg-pattern.jpg": "/crudfrontend/static/media/bg-pattern.5f6672f5413fd4d3eac5.jpg",
+    "index.html": "/crudfrontend/index.html",
+    "main.2f431ef0.css.map": "/crudfrontend/static/css/main.2f431ef0.css.map",
+    "main.70dbb266.js.map": "/crudfrontend/static/js/main.70dbb266.js.map"
   },
   "entrypoints": [
-    "static/css/main.3afa8314.css",
-    "static/js/main.8b17e0b1.js"
+    "static/css/main.2f431ef0.css",
+    "static/js/main.70dbb266.js"
   ]
 }
